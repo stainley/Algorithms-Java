@@ -21,3 +21,14 @@ V
 &src/main/java/sorting/BurbbleSort.java,e/5/e5bafb8383d3d53c68247aaae8616e5a98fd2de7
 Z
 *src/test/java/sorting/BurbbleSortTest.java,d/f/dfe11cf90164cbda59f29f6921dd793eee5cee05
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+X
+(src/test/java/sorting/ShellSortTest.java,2/4/2411e03139bb1b8465c371cb61c2575410293f85
+T
+$src/main/java/sorting/ShellSort.java,6/a/6a3b849b1b3f5a77cbab287e99f21595c54f52f8
+X
+(src/test/java/sorting/MergeSortTest.java,1/c/1c56549a0dafe804b63d075c0fbdff467be62bae
+T
+$src/main/java/sorting/MergeSort.java,f/6/f6d49af70d9adf13b2bfebd5517e870ebd988567
